@@ -1,0 +1,19 @@
+.current-items {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.current-items__no-items {
+  text-align: center;
+  margin: 40px 0px;
+  margin-bottom: 50px;
+}
+
+.current-items__sadsmile {
+  font-size: 95px;
+}
+
+.current-items__sadtext {
+  font-size: 18px;
+  margin-top: 7px;
+}

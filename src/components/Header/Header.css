@@ -1,0 +1,19 @@
+header {
+  background: green;
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(to right, #1e5794, #006b9e, #007c95, #008a7e, #229460);
+}
+
+.header__main-heading {
+  text-align: center;
+  padding: 25px 0px;
+  color: white;
+  font-size: 38px;
+}
+
+@media screen and (max-width: 512px) {
+  .header__main-heading {
+    font-size: 28px;
+  }
+}

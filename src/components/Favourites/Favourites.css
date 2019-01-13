@@ -1,0 +1,20 @@
+.favourites {
+  background-color: #F7FEFA;
+}
+
+.favourites__content {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 0px; 
+}
+
+.favourites__heading {
+  margin-bottom: 30px;
+  color: #24995D;
+}
+
+@media screen and (max-width: 624px) {
+  .favourites__heading {
+    text-align: center;
+  }
+}
