@@ -15,16 +15,16 @@ class App extends React.Component {
   }
 
   fetchNewItems = async () => {
+    const { inputValue } = this.state
+    if (inputValue.length === 0) {
+      return
+    }
     if (this.state.loading) {
       return
     }
     this.setState({
       loading: true
     })
-    const { inputValue } = this.state
-    if (inputValue.length === 0) {
-      return
-    }
     const data = await fetch(API_URL)
     const itemsList = await data.json()
     const currentItems = itemsList.filter(item => (

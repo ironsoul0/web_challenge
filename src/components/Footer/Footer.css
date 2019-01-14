@@ -1,8 +1,13 @@
 footer {
-  text-align: center;
-  padding: 20px 0px;
+  text-align: right;
+  margin-top: -30px;
+  margin-right: 20px;
+  font-size: 15px;
 }
 
-.footer_info a {
-  text-decoration: none;
+@media screen and (max-width: 624px) {
+  footer {
+    text-align: center;
+    margin-right: 0px;
+  }
 }
