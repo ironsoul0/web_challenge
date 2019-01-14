@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6ab74fad79f9fa362916",
-    "url": "/web_challenge/static/css/main.2aa493c5.chunk.css"
+    "revision": "462e43184679ea904abd",
+    "url": "/web_challenge/static/css/main.4eafe2f6.chunk.css"
   },
   {
-    "revision": "6ab74fad79f9fa362916",
-    "url": "/web_challenge/static/js/main.6ab74fad.chunk.js"
+    "revision": "462e43184679ea904abd",
+    "url": "/web_challenge/static/js/main.462e4318.chunk.js"
   },
   {
     "revision": "6fd58a21866498878629",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/web_challenge/static/js/runtime~main.a89953a9.js"
   },
   {
-    "revision": "c567988608108d7a10322d3b61408bb2",
+    "revision": "0cfab6b1b29e5f424a39c7698e326658",
     "url": "/web_challenge/index.html"
   }
 ];

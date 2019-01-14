@@ -1,13 +1,13 @@
 {
-  "main.css": "/web_challenge/static/css/main.2aa493c5.chunk.css",
-  "main.js": "/web_challenge/static/js/main.6ab74fad.chunk.js",
-  "main.js.map": "/web_challenge/static/js/main.6ab74fad.chunk.js.map",
+  "main.css": "/web_challenge/static/css/main.4eafe2f6.chunk.css",
+  "main.js": "/web_challenge/static/js/main.462e4318.chunk.js",
+  "main.js.map": "/web_challenge/static/js/main.462e4318.chunk.js.map",
   "static/js/1.6fd58a21.chunk.js": "/web_challenge/static/js/1.6fd58a21.chunk.js",
   "static/js/1.6fd58a21.chunk.js.map": "/web_challenge/static/js/1.6fd58a21.chunk.js.map",
   "runtime~main.js": "/web_challenge/static/js/runtime~main.a89953a9.js",
   "runtime~main.js.map": "/web_challenge/static/js/runtime~main.a89953a9.js.map",
-  "static/css/main.2aa493c5.chunk.css.map": "/web_challenge/static/css/main.2aa493c5.chunk.css.map",
+  "static/css/main.4eafe2f6.chunk.css.map": "/web_challenge/static/css/main.4eafe2f6.chunk.css.map",
   "index.html": "/web_challenge/index.html",
-  "precache-manifest.becc4bd39b4573d2e6163c4b0eb3ee07.js": "/web_challenge/precache-manifest.becc4bd39b4573d2e6163c4b0eb3ee07.js",
+  "precache-manifest.0550b871280ad500b2857948a4f69f94.js": "/web_challenge/precache-manifest.0550b871280ad500b2857948a4f69f94.js",
   "service-worker.js": "/web_challenge/service-worker.js"
 }
